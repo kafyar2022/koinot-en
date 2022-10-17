@@ -201,8 +201,7 @@
       <section class="carrier-page__internship">
         <div class="content">
           <h2>Internship</h2>
-          <p>An internship involves the development of a person's labor skills. Often it takes place when a young employee masters a specialty, solving professional problems under the guidance of a more experienced employee of the company. It allows the beginner to plunge into the atmosphere of work activity. Provides an opportunity to learn how to build relationships with colleagues in the team. Teaches you to take responsibility for your decisions. During the period there is an opportunity to take a closer look at a potential employee, evaluate his adaptive capabilities associated with working in a particular company, compliance with its values.</p>
-
+          <p>An internship involves the development of a person's labor skills. Often it takes place when a young employee masters a specialty, solving professional problems under the guidance of a more experienced employee of the company. It allows the beginner to plunge into the atmosphere of work activity. Provides an opportunity to learn how to build relationships with colleagues in the team. Teach you to take responsibility for your decisions. During the period there is an opportunity to take a closer look at a potential employee, evaluate his adaptive capabilities associated with working in a particular company, compliance with its values.</p>
           <a href="{{ route('carrier.test') }}">Take the test</a>
         </div>
       </section>

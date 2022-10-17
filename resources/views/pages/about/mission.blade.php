@@ -36,7 +36,7 @@
       <div class="content">
         <h2>Mission</h2>
         <p>To contribute in every way and in every way to the well-being of society <br>
-          through The mission of "KOINOTI NAV" and social responsibility, <br>
+          through the mission of "KOINOTI NAV" and social responsibility, <br>
           focusing on the multiplication of long-term social and economic benefits.</p>
       </div>
     </section>
