@@ -5,8 +5,8 @@
         <dt class="page-footer__menu-caption">About us</dt>
 
         <dd class="page-footer__menu-item">
-          <a class="page-footer__menu-link" href="{{ route('about', 'field-of-activity') }}">
-            Field of activity
+          <a class="page-footer__menu-link" href="{{ route('about', 'history') }}">
+            History
           </a>
         </dd>
         <dd class="page-footer__menu-item">

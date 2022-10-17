@@ -57,9 +57,9 @@
           <button class="page-nav__button">About us</button>
 
           <ul class="page-nav__sublist page-nav__sublist--hidden">
-            <li class="page-nav__subitem {{ request('category') == 'field-of-activity' ? 'page-nav__subitem--current' : '' }}">
-              <a class="page-nav__sublink" href="{{ route('about', 'field-of-activity') }}">
-                Field of activity
+            <li class="page-nav__subitem {{ request('category') == 'history' ? 'page-nav__subitem--current' : '' }}">
+              <a class="page-nav__sublink" href="{{ route('about', 'history') }}">
+                History
               </a>
             </li>
 

@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-  Koinoti Nav | Field of activity
+  Koinoti Nav | History
 @endsection
 
 @section('content')
