@@ -48,7 +48,7 @@
               Group of Companies<br>
               "KOINOTI NAV"
             </h2>
-            <a class="banner__link button" href="{{ route('about', 'field-of-activity') }}">
+            <a class="banner__link button" href="{{ route('about', 'history') }}">
               More detailed
             </a>
           </div>

@@ -65,7 +65,7 @@ const createQuizTemplate = (stages, currentStage, currentQuestion) => `
     ${createQuizBodyTemplate(currentQuestion)}
 
     <button class="quiz__next-question button" type="button" disabled>
-      Далее
+      Next
     </button>
   </div>
 `;
